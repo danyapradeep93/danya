@@ -11,11 +11,11 @@ You can download my CV [here](http://karanalytics.github.io/files/CV.pdf "Curric
 
 <div class="wp-caption aligncenter" style="width: 755px; border: 0;">
   <p>
-    <img class="aligncenter" src="images/profile.png" alt="File:profile.png" />
+    <img class="aligncenter" src="http://karanalytics.com/images/Dublin.jpg" alt="File:Dublin.jpg" />
   </p>
   
   <p class="wp-caption-text">
-    <em> </em>
+    <em> A scenic view inside an apartments in Dublin, California. Added this just to fill up the space here and share the joy of enjoying this scenic view.</em>
   </p>
 </div>
 
