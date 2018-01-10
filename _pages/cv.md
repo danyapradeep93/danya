@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](http://karanalytics.github.io/files/CV.pdf "Curriculum Vitae")
+You can download my CV [here](http://karanalytics.github.io/files/CV.pdf "Curriculum Vitae").
