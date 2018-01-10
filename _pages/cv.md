@@ -9,4 +9,6 @@ redirect_from:
 
 You can download my CV [here](http://karanalytics.github.io/files/CV.pdf "Curriculum Vitae").
 
-![](Dublin.jpg)
+<img src="Dublin.jpg"
+     alt="Scenery"
+     style="float: left; margin-right: 10px;" />
