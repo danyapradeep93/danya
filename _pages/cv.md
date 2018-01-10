@@ -9,5 +9,15 @@ redirect_from:
 
 You can download my CV [here](http://karanalytics.github.io/files/CV.pdf "Curriculum Vitae").
 
-![](images/profile.png)
+<div class="wp-caption aligncenter" style="width: 755px; border: 0;">
+  <p>
+    <img class="aligncenter" src="images/profile.png" alt="File:profile.png" />
+  </p>
+  
+  <p class="wp-caption-text">
+    <em> </em>
+  </p>
+</div>
+
+## ![](images/Dublin.jpg)
 
