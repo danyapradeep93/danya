@@ -15,7 +15,7 @@ You can download my CV [here](http://karanalytics.github.io/files/CV.pdf "Curric
   </p>
   
   <p class="wp-caption-text">
-    <em> A scenic view inside an apartments in Dublin, California.</em>
+    <em> A scenic view in Dublin, California.</em>
   </p>
 </div>
 
