@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](http://karanalytics.github.io/files/CV.pdf "Curriculum Vitae").
+You can download my CV <span style="color:blue">**[here](http://karanalytics.github.io/files/CV.pdf "Curriculum Vitae")**</span> .
 
 <div class="wp-caption aligncenter" style="width: 755px; border: 0;">
   <p>
