@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karthik Srinivasan"
+title                    : "Danya Pradeep Kumar"
 title_separator          : "-"
-name                     : &name "Karthik Srinivasan"
+name                     : &name "Danya Pradeep Kumar"
 description              : &description "Doctoral student, University of Arizona"
-url                      : "https://karanalytics.github.io" 
+url                      : "https://danya.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "karanalytics/karanalytics.github.io"
+repository               : "danyapradeep93/danya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -71,20 +71,20 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :   # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-112274242-1"
+    tracking_id          :
 
 # Site Author
 author:
-  name             : "Karthik Srinivasan"
+  name             : "Danya Pradeep Kumar"
   avatar           : "profile.png"
-  bio              : "MIS PhD student, 
-                      Digital Health enthusiast"
+  bio              : "ECE PhD student,
+                      Medical Imaging"
   location         : "Tucson, Arizona"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=ZtWgsq0AAAAJ&hl=en"
-  email            : "karthiks@email.arizona.edu"
+  googlescholar    :
+  email            : "danyapradeep93@email.arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KarAnalytics"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-1608-6190"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "2896323"
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "KarAnalytics"
+  twitter          :
   vine             :
   weibo            :
   xing             :

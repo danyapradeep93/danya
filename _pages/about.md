@@ -3,12 +3,12 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-My name is Karthik Srinivasan and I am a fourth year Ph.D Student in the Management Information Systems (MIS) department, Eller College of Management at University of Arizona. My Ph.D advisor is Professor Sudha Ram. 
+My name is Danya Pradeep and I am a fourth year Ph.D Student in the Management Information Systems (MIS) department, Eller College of Management at University of Arizona. My Ph.D advisor is Professor Sudha Ram. 
 
 ## My research interests
 
@@ -18,4 +18,4 @@ Working in [INSITE: center for Business Intelligence and Analytics](https://www.
 
 ## My background
 
-I am an engineer turned data scientist. I am currently working as a research assistant in the INSITE Center for Business Intelligence and Analytics focusing on big data analysis. I am currently in a socio-intellectual transition phase into the role of a PhD guy who strives to become a promising researcher in data sciences in the near future. I completed my undergraduate degree in Electronics and Telecommunications Engineering at University of Mumbai in 2009. After a two year stint in Accenture-IT services, I got the opportunity to get exposed to the exciting world of Data Sciences through a two year Master of Management Course offered by the Dept. of Management Studies, Indian Institute of Science(IISc). I later worked for about a year in the Data Analytics Solutions team of Robert Bosch India. Currently, I am a PhD research scholar, living my dream each day of my life as a researcher. 
+I am an engineer turned data scientist. I am currently working as a research assistant in the INSITE Center for Business Intelligence and Analytics focusing on big data analysis. I am currently in a socio-intellectual transition phase into the role of a PhD guy who strives to become a promising researcher in data sciences in the near future. I completed my undergraduate degree in Electronics and Telecommunications Engineering at University of Mumbai in 2009. After a two year stint in Accenture-IT services, I got the opportunity to get exposed to the exciting world of Data Sciences through a two year Master of Management Course offered by the Dept. of Management Studies, Indian Institute of Science(IISc). I later worked for about a year in the Data Analytics Solutions team of Robert Bosch India. Currently, I am a PhD research scholar, living my dream each day of my life as a researcher.
