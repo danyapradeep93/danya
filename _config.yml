@@ -11,9 +11,9 @@ title                    : "Danya Pradeep Kumar"
 title_separator          : "-"
 name                     : &name "Danya Pradeep Kumar"
 description              : &description "Doctoral student, University of Arizona"
-url                      : "https://danya.github.io"
+url                      : "https://danyapradeep93.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danyapradeep93/danya.github.io"
+repository               : "danya"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
