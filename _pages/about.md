@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Danya Pradeep and I am a fourth year Ph.D Student in the Management Information Systems (MIS) department, Eller College of Management at University of Arizona. My Ph.D advisor is Professor Sudha Ram. 
+My name is Danya Pradeep and I am a first year Ph.D Student in Electrical and Computer Engineering at University of Arizona. My advisor is Professor Jeffrey Rodriguez.
 
 ## My research interests
 

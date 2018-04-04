@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Danya Pradeep Kumar"
 title_separator          : "-"
-name                     : &name "Danya Pradeep Kumar"
+name                     : &name "Personal Page"
 description              : &description "Doctoral student, University of Arizona"
 url                      : "https://danyapradeep93.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danya"
+repository               : "danyapradeep93/danya"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
