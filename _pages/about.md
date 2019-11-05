@@ -12,7 +12,7 @@ My name is Danya Pradeep Kumar and I am a Ph.D Student in Biomedical Engineering
 
 ## My research interests
 
-I am interested in Signal Processing, Image and Video Processing and Medical Imaging. I am especially interested in abnormality from medical images. I have worked on Retinal Macular Edema Detection from Optical Coherence Tomographic Images for my master's project dissertation. Currently, I am working in a Cardio Toxicity Assay Platform project studying synthetic cardiac grafts seeded with human fibroblast stem-cells and cardio-myocytes.
+I am interested in Biomedical applications in gerontology and aging. I am specifically interested in assessing frailty using daily physical activity recorded using wearable devices. 
 
 ## My background
 
