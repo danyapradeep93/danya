@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @kumar_danya
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Danya Pradeep Kumar"
   avatar           : "Danya.jpg"
-  bio              : "BME PhD student,
+  bio              : "BME PhD Student,
                       Biomechanics for Gerontology and Geriatrics"
   location         : "Tucson, Arizona"
   employer         :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :"danyapradeep93.github.io"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :"www.linkedin.com/in/danyapradeep93"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
