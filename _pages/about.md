@@ -12,7 +12,7 @@ My name is Danya Pradeep Kumar and I am a Ph.D Student in Biomedical Engineering
 
 ## My research interests
 
-I am interested in Biomedical applications in gerontology and aging. I am specifically interested in assessing frailty using daily physical activity recorded using wearable devices. 
+I am interested in Biomedical engineering applications in gerontology and aging. I am specifically interested in assessing frailty using daily physical activity recorded using wearable devices. 
 
 ## My background
 
