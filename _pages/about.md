@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Danya Pradeep and I am a first year Ph.D Student in Electrical and Computer Engineering at University of Arizona. My advisor is Professor Jeffrey Rodriguez.
+My name is Danya Pradeep Kumar and I am a Ph.D Student in Biomedical Engineering at University of Arizona. My advisors are Dr Nima Toosizadeh and Dr Kaveh Laksari.
 
 ## My research interests
 
