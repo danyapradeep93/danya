@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Danya Pradeep Kumar and I am a Ph.D Student in Biomedical Engineering at University of Arizona. My advisors are Dr Nima Toosizadeh and Dr Kaveh Laksari.
+My name is Danya Pradeep Kumar and I am a Ph.D Student in Biomedical Engineering at University of Arizona. My advisors are [Dr Nima Toosizadeh](https://ntoosizadeh.wixsite.com/mysite) and [Dr Kaveh Laksari](https://www2.engr.arizona.edu/~klaksari/Home.html).
 
 ## My research interests
 
